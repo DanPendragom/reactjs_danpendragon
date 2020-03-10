@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.001a2e0e.chunk.css",
+    "main.js": "/static/js/main.e5e9c946.chunk.js",
+    "main.js.map": "/static/js/main.e5e9c946.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.16f87117.js",
+    "runtime-main.js.map": "/static/js/runtime-main.16f87117.js.map",
+    "static/js/2.26165728.chunk.js": "/static/js/2.26165728.chunk.js",
+    "static/js/2.26165728.chunk.js.map": "/static/js/2.26165728.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3c5fd3a8beb2a53da2091bd11ba204c0.js": "/precache-manifest.3c5fd3a8beb2a53da2091bd11ba204c0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.001a2e0e.chunk.css.map": "/static/css/main.001a2e0e.chunk.css.map",
+    "static/js/2.26165728.chunk.js.LICENSE.txt": "/static/js/2.26165728.chunk.js.LICENSE.txt",
+    "static/media/global.css": "/static/media/neon-webfont.cb5e6beb.woff2",
+    "static/media/daniel-pendragon.svg": "/static/media/daniel-pendragon.ce32c5db.svg",
+    "static/media/homepage-wall-background.png": "/static/media/homepage-wall-background.fc7a0ea4.png",
+    "static/media/neon-blue.svg": "/static/media/neon-blue.73b1b06b.svg",
+    "static/media/neon-yellow.svg": "/static/media/neon-yellow.15bf3aca.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16f87117.js",
+    "static/js/2.26165728.chunk.js",
+    "static/css/main.001a2e0e.chunk.css",
+    "static/js/main.e5e9c946.chunk.js"
+  ]
+}
